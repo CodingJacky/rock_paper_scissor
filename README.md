@@ -1,6 +1,6 @@
 # rock_paper_scissor
 (refer screenshots below for more info)
-This is a classical rock paper scissor game with GUI and count of wins and losses
+This is a classical rock paper scissor game against computer with GUI and count of wins and losses
 
 JUST EXECUTE THE PYTHON FILE PRESENT IN THE EXTRACTED FOLDER AND GAME ON !
 
